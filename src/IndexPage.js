@@ -35,7 +35,7 @@ const IndexPage = () => {
           <div className="space-y-4">
             {/* YouTube */}
             <a
-              href="https://www.youtube.com/watch?v=VnWyyNcMP7s" // YouTube link
+              href="https://www.youtube.com/watch?v=LHeaiNqMPHo" // YouTube link
               target="_blank"
               rel="noopener noreferrer"
               className="block"
@@ -53,7 +53,7 @@ const IndexPage = () => {
 
             {/* YouTube Music */}
             <a
-              href="https://music.youtube.com/watch?v=98b5vjBVypI&si=05RGcp08m66-sELq"
+              href="https://music.youtube.com/playlist?list=OLAK5uy_lA2VWEOJVjECyPmyg0dleF5uxVujig24w"
               target="_blank"
               rel="noopener noreferrer"
               className="block"
@@ -71,7 +71,7 @@ const IndexPage = () => {
 
             {/* Spotify */}
             <a
-              href="https://open.spotify.com/album/2CK8ESi8fWwe8q621yFFZ9" // Spotify link
+              href="http://open.spotify.com/album/1O9rT3PToBF5FIsB37A2zH" // Spotify link
               target="_blank"
               rel="noopener noreferrer"
               className="block"
@@ -89,7 +89,7 @@ const IndexPage = () => {
 
             {/* SoundCloud */}
             <a
-              href="https://soundcloud.com/hera69527/hodaj" // SoundCloud link
+              href="https://soundcloud.com/almirajanovic/sets/hard-to-believe-7" // SoundCloud link
               target="_blank"
               rel="noopener noreferrer"
               className="block"
@@ -107,7 +107,7 @@ const IndexPage = () => {
 
             {/* Apple Music */}
             <a
-              href="https://music.apple.com/us/album/hodaj-single/1794136789" // Apple Music link
+              href="https://music.apple.com/us/album/hard-to-believe-ep/1797273987" // Apple Music link
               target="_blank"
               rel="noopener noreferrer"
               className="block"
