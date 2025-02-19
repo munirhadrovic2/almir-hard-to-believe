@@ -27,7 +27,9 @@ const IndexPage = () => {
             alt="Main Visual"
             className="w-full max-w-xs sm:max-w-md md:max-w-lg lg:max-w-xl xl:max-w-2xl mx-auto rounded-lg shadow-xl"
           />
-          <p className="mt-4 text-white text-2xl">Almir Ajanović - Hard to Believe – Live in Stockholm</p>
+          <p className="mt-4 text-white text-2xl text-center mx-4 sm:mx-8 md:mx-16 lg:mx-24 xl:mx-32">
+            Almir Ajanović - Hard to Believe – Live in Stockholm
+          </p>
         </div>
 
         {/* DSP icons with full clickable buttons */}
